@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addButton
+id appTitle
+id taskDescription
+id taskInput
+id taskList
+layout activity_main
+layout item_task
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.JOLT
+style Theme.JOLT
+xml backup_rules
+xml data_extraction_rules

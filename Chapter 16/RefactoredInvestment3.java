@@ -1,0 +1,1 @@
+record RefactoredInvestment3(String id, double amount, String category) {}
